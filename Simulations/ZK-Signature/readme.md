@@ -1,6 +1,6 @@
 # Zero-Knowledge Proof of Signature
 
-in this example can't run twice `claim` function without any signature by wallet.
+in this example can't run twice `claim` function, without any signature by wallet.
 
 > 16 aug- 2022
 
