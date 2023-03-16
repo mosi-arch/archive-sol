@@ -1,5 +1,7 @@
 # Enigma simulator
 
+- need 3 loop's & a dynamic pointer for working like the real enigma machine.
+
 just enjoy it!
 
 ```js
