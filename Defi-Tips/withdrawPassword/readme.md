@@ -1,4 +1,5 @@
-zero knowledge proof (ZKproof)
+### zero knowledge proof (ZKproof)
+*! the code is mock*
 #
 ***PRIVACY*** IN PUBLIC BLOCKCHAIN.
 
