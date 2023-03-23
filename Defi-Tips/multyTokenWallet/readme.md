@@ -16,6 +16,9 @@
 ### security info
 not use `function changeToken`, if you not withdraw
 
+---
+this code will be extending as soon for 'anti censorship vault' asap
+
 #
 
 ### important feature
