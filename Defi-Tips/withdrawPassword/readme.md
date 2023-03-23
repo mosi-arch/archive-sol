@@ -10,6 +10,9 @@
 read the article about this 0n [hackernoon](https://hackernoon.com/preview/k9fK6cWEjCwfa5Vc5cmO)
 
 ---
+this code will be extending as soon for 'anti censorship vault' asap
+
+---
 
 ## Secure Anonymous Withdraw
 at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
