@@ -21,6 +21,10 @@ in this example use @openzeppelin/contracts --> sub --> erc20
 
 > 07-12-2022 live stream
 
+
+---
+this code will be extending as soon for 'anti censorship vault' asap
+
 ---
 
 ### ready/deployed
