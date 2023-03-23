@@ -12,6 +12,9 @@
 > live stream at 06-20-2022
 
 ---
+this code will be extending as soon for 'anti censorship vault' asap
+
+---
 
 in test on remix, i use this accounts as owners
 ```
