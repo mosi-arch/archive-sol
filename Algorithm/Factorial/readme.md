@@ -10,3 +10,17 @@
 ! is the symbol of factorial, place after the num => 5!
 
 Enjoy it!
+
+---
+
+the best solution for saving memory in the computing time is "tail recursive'
+```py
+# tail recursive, factorial
+def fi(f, e=1):
+    if f == 1 or f == 0:
+        return e
+    return fi(f-1, e * f)
+
+i = fi(5)
+print(i)
+```
