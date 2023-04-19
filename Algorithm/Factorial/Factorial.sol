@@ -37,4 +37,18 @@ contract FactorialNumber {
         return num * factorNType3(num-1);
     }
     
+    // tail recursive - best style of coding code [functional programming]
+    function factorNType4(uint num) public pure returns (uint) {
+        return tailRecursive(num, 1);
+    }
+
+    function tailRecursive(uint num, uint result) private pure returns (uint) {
+        // result = 1; // this is require for start, at continue look like a mesh-tmp variable
+        if(num == 0 || num == 1) {
+            return result;
+        } else {
+            return tailRecursive(num - 1, result * num);
+        }
+    }
+    
 }
