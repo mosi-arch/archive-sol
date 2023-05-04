@@ -16,6 +16,7 @@ in this *industry* (decentralized world) we need to **proof* anything before cal
 ## web3 ui
 
 - index.html
+- vue + tailwind
 ```html
 <!DOCTYPE html>
 <html>
